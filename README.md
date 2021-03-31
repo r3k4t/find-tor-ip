@@ -1,5 +1,5 @@
 [![Perl](https://img.shields.io/badge/Program-Perl-brightgreen.svg)](https://metacpan.org/release/perl/)
-[![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Windows-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 # Find Tor IP
 
 <h6>Author:RKT</h6>
